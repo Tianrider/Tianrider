@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C & JavScript<br>🎯 Goals: <br>Make $1000 by tomorrow.<br>🎲 Fun fact: I can't code</p>
+<p align="left">📚 I'm currently learning C & JavaScript<br>🎯 Goals: Make $1000 by tomorrow.<br>🎲 Fun fact: I can't code</p>
 
 ###
 
