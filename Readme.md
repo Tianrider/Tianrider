@@ -14,11 +14,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tianrider&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianrider&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Tianrider&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
