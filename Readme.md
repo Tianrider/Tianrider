@@ -2,7 +2,8 @@
   
 # 💫 About Me:
   
-🤵I'm a Computer Engineering student at the University of Indonesia.<br>📚Front End & Data Enthusiast.
+🤵I'm a Computer Engineering student at the University of Indonesia.<br>📚Fullstack Developer
+.
 
 
 ## 🌐 Socials:
