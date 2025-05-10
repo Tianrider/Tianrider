@@ -2,7 +2,7 @@
   
 # 💫 About Me:
   
-🤵I'm a Computer Engineering student at the University of Indonesia.<br>📚Fullstack Developer
+🤵I'm a Computer Engineering student at the University of Indonesia.<br>📚Software Engineer
 .
 
 
